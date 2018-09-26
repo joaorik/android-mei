@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MEI</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="excluir">Excluir</string>
+    <string name="valor">Valor</string>
+    <string name="rs_0_00">R$ 0,00</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="personalizar_titulo">Personalizar título</string>
+</resources>
